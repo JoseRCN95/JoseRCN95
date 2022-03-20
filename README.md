@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JoseRCN95
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning visualg
+- 🌱 I’m currently learning C
